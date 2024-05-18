@@ -1,0 +1,6 @@
+total 16
+drwxrwxrwx+ 2 codespace codespace 4096 May 15 22:04 How-shell-pinging
+-rw-rw-rw-  1 codespace codespace   19 May 15 19:06 NEWFILE.TXT
+-rw-rw-rw-  1 codespace root        16 May 14 21:12 README.md
+-rw-rw-rw-  1 codespace codespace  261 May 15 21:53 hellow.sh
+-rw-rw-rw-  1 codespace codespace    0 May 15 22:10 output.txt
